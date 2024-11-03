@@ -32,6 +32,6 @@ In my case, I edited the file to:
 
 ## 4. Place a shortcut on your desktop (optional)
 
-At this point, you can simply launch, by double clicking, the file **launch.bat** and the dialog window will appear. But I suggest you create a shortcut of **launch.bat** on the desktop and launch it from there.
+At this point, you can simply launch, by double clicking, the file **webcam.exe** and the dialog window will appear. But I suggest you create a shortcut of **webcam.exe** on the desktop and launch it from there.
 
 Voila! Hope it works for you.
